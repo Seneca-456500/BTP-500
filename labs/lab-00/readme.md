@@ -24,7 +24,7 @@ This lab is not worth any marks.
 
 * In the file lab0.py there is a declaration for a function named sum(num1,num2) which will return the sum of the two numbers passed into the function
 * Write the program with a mistake in it (for example: return num_1 * num_2).
-* You can test it locally by using the command: python test_lab0.py.  At this point, the test should not pass.
+* You can test it locally by using the command: `python lab0_tester.py`.  At this point, the test should not pass.
 * Run the test locally to verify that it works (the test should not pass).
 * Fix the function by writing the function correctly.
 * Run the test locally to verify that it works
