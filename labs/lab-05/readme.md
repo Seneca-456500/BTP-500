@@ -11,8 +11,8 @@ Modification, distribution, or reposting of this document is strictly prohibited
 The part A of this lab is due at the end of your scheduled lab.
 
 The part B of this lab is due at the end of the day that is before your next lab:
-- section `NAA`: Monday, Nov 16 2026, @ 23:59
-- section `NBB`: Thursday, Nov 19 2026, @ 23:59
+- section `NAA`: Monday, Nov 23 2026, @ 23:59
+- section `NBB`: Thursday, Nov 26 2026, @ 23:59
 
 
 ## Objectives:
