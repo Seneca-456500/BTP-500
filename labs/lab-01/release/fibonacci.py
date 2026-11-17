@@ -1,1 +1,5 @@
-# implement here your sum_to_goal function as instructed.
+def fibonacci(n):
+    if n <= 1:
+        return n
+    else:
+        return fibonacci(n - 1) + fibonacci(n - 2)

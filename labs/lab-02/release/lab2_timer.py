@@ -50,7 +50,7 @@ def three(mylist, key):
 
 
 
-AMOUNT_OF_DATA = 1000
+AMOUNT_OF_DATA = 5000
 
 
 
